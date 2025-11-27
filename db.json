@@ -23,6 +23,12 @@
         "img": "resources/cars/porsche-911-gt3rs.jpg",
         "description": "Germany's finest export. Best handling vehicle, packed with a flat 6 engine.",
         "link": "#"
+    },
+    {
+        "title": "BMW M5 Competition F90-series",
+        "img": "https://autonews-mag.com/images/akrapovicbmw5series.jpg",
+        "description": "Me and my girlfriend's dream car. Will get one when time is right... Of course, it will be heavily modified too. This image is fetched from the internet.",
+        "link": "#"
     }
   ]
 }
