@@ -1,22 +1,28 @@
 {
   "projects": [
     {
-      "title": "Mazda RX7 It's stock officer",
-      "img": "resources/cars/mazda-rx7-stock.jpg",
-      "description": "Triton Auto Club at UCSD. Definitely stock; not as if it got 40% carbon fiber kit with almost no interior for weight reduction.",
-      "link": "https://en.wikipedia.org/wiki/Mazda_RX-7"
+        "title": "Mazda RX7 'It's stock officer'",
+        "img": "resources/cars/mazda-rx7-stock.jpg",
+        "description": "Triton Auto Club @ UCSD. Definitely stock; not as if it got 40% carbon fiber kit with almost no interior for weight reduction; definitely no bigger turbos nor modified exhaust.",
+        "link": "https://en.wikipedia.org/wiki/Mazda_RX-7"
     },
     {
-      "title": "Nissan Skyline GT-R R34",
-      "img": "resources/cars/skyline-r34.jpg",
-      "description": "The legendary GT-R R34, featuring the iconic RB26DETT engine and advanced ATTESA E-TS AWD system.",
-      "link": "https://en.wikipedia.org/wiki/Nissan_Skyline_GT-R"
+        "title": "Ferrari 488 Pista",
+        "img": "resources/cars/ferrari-488-pista.jpg",
+        "description": "Triton Auto Club @ UCSD. Sexy Italien.",
+        "link": "#"
     },
     {
-      "title": "Toyota Supra MK4",
-      "img": "resources/cars/supra-mk4.jpg",
-      "description": "The legendary 2JZ-GTE powered Supra, capable of handling massive amounts of boost and power.",
-      "link": "https://en.wikipedia.org/wiki/Toyota_Supra"
+        "title": "VIPER ACR V10",
+        "img": "resources/cars/viper-acr.jpg",
+        "description": "American Muscle at it's finest. A VERY LONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONG LONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONG TEXT",
+        "link": "#"
+    },
+    {
+        "title": "Porsche 911 GT3 RS",
+        "img": "resources/cars/porsche-911-gt3rs.jpg",
+        "description": "Germany's finest export. Best handling vehicle, packed with a flat 6 engine.",
+        "link": "#"
     }
   ]
 }
