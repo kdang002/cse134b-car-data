@@ -33,13 +33,13 @@
     {
         "title": "Lamboghini Aventador S",
         "img": "resources/cars/lambo-aventador-s.jpg",
-        "description": "Batman's roller. Generated via prepopulated localStorage.",
+        "description": "Batman's roller.",
         "link": "#"
     },
     {
         "title": "Aston Martin DBS",
         "img": "resources/cars/am-dbs.jpg",
-        "description": "Performance Family SUV??! Generated via prepopulated localStorage",
+        "description": "Performance Family SUV??!",
         "link": "#"
     }
   ]
