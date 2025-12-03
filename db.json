@@ -2,25 +2,25 @@
   "projects": [
     {
         "title": "Mazda RX7 'It's stock officer'",
-        "img": "resources/cars/mazda-rx7-stock.jpg",
+        "img": "/resources/cars/mazda-rx7-stock.jpg",
         "description": "Triton Auto Club @ UCSD. Definitely stock; not as if it got 40% carbon fiber kit with almost no interior for weight reduction; definitely no bigger turbos nor modified exhaust.",
         "link": "https://en.wikipedia.org/wiki/Mazda_RX-7"
     },
     {
         "title": "Ferrari 488 Pista",
-        "img": "resources/cars/ferrari-488-pista.jpg",
+        "img": "/resources/cars/ferrari-488-pista.jpg",
         "description": "Triton Auto Club @ UCSD. Sexy Italien.",
         "link": "#"
     },
     {
         "title": "VIPER ACR V10",
-        "img": "resources/cars/viper-acr.jpg",
+        "img": "/resources/cars/viper-acr.jpg",
         "description": "American Muscle at it's finest. A VERY LONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONG LONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONGLONG LONG TEXT",
         "link": "#"
     },
     {
         "title": "Porsche 911 GT3 RS",
-        "img": "resources/cars/porsche-911-gt3rs.jpg",
+        "img": "/resources/cars/porsche-911-gt3rs.jpg",
         "description": "Germany's finest export. Best handling vehicle, packed with a flat 6 engine.",
         "link": "#"
     },
@@ -32,13 +32,13 @@
     },
     {
         "title": "Lamboghini Aventador S",
-        "img": "resources/cars/lambo-aventador-s.jpg",
+        "img": "/resources/cars/lambo-aventador-s.jpg",
         "description": "Batman's roller.",
         "link": "#"
     },
     {
         "title": "Aston Martin DBS",
-        "img": "resources/cars/am-dbs.jpg",
+        "img": "/resources/cars/am-dbs.jpg",
         "description": "Performance Family SUV??!",
         "link": "#"
     }
