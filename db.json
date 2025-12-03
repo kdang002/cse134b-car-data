@@ -29,6 +29,18 @@
         "img": "https://autonews-mag.com/images/akrapovicbmw5series.jpg",
         "description": "Me and my girlfriend's dream car. Will get one when time is right... Of course, it will be heavily modified too. This image is fetched from the internet.",
         "link": "#"
+    },
+    {
+        "title": "Lamboghini Aventador S",
+        "img": "resources/cars/lambo-aventador-s.jpg",
+        "description": "Batman's roller. Generated via prepopulated localStorage.",
+        "link": "#"
+    },
+    {
+        "title": "Aston Martin DBS",
+        "img": "resources/cars/am-dbs.jpg",
+        "description": "Performance Family SUV??! Generated via prepopulated localStorage",
+        "link": "#"
     }
   ]
 }
